@@ -8,6 +8,8 @@ Advisor: Brian Gormanly, Marist College Faculty
 
 [Link to faculty presentation.](https://docs.google.com/presentation/d/1kvOafRDK2_6SGJ9UlAbz8C6-oJzBAdOrugjiGcc0nz8)
 
+[Link to the post presented at the honors thesis exhibit.](https://drive.google.com/open?id=1dsAmFpibVRCKSTYZ_Xu5pA52RM5eZmgzth_BCppwN0g)
+
 Dependencies:
  - Python 3
  - [`pytest`](https://docs.pytest.org/en/latest/getting-started.html)
