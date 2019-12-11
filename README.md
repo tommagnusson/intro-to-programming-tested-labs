@@ -3,6 +3,7 @@
 This repository implements at least partial solutions to most of the labs in introduction to programming, as well as [`pytest`](https://docs.pytest.org/en/latest/) unit tests.
 
 Author: Tom Magnusson - tommagnuss@gmail.com
+
 Advisor: Brian Gormanly, Marist College Faculty
 
 Dependencies:
